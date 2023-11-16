@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Elikibs/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://elikibs.github.io/advice-generator-app/)
+- Solution URL: [Git repo](https://github.com/Elikibs/advice-generator-app)
+- Live Site URL: [Hosted live page](https://elikibs.github.io/advice-generator-app/)
 
 ### Built with
 - HTML, CSS, Javascript
