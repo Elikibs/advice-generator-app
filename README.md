@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Advice generator app](./images/advice-app.png.jpg)
+![Design preview for the Advice generator app](./images/advice-app.png)
 
 ## Files workability
 - HTML (index.html): Displays a greeting message and a card container. The card contains an advice container with advice text and a dice button triggering advice generation. External JavaScript (index.js) adds interactivity. 
